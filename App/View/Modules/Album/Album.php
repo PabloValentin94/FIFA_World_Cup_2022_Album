@@ -12,7 +12,7 @@
 
         <link rel="stylesheet" type="text/css" href="/View/Modules/Album/CSS/Styles.css">
 
-        <title> FIFA World Cup 2.022 </title>
+        <title> FIFA World Cup 2.022 - Catar </title>
 
     </head>
 
