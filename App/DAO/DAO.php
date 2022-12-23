@@ -12,7 +12,7 @@ abstract class DAO
     protected function __construct()
     {
 
-        $dsn = "myslq:host=" . $_ENV["db"]["host"] . ";dbname=" . $_ENV["db"]["database_name"];
+        $dsn = "mysql:host=" . $_ENV["db"]["host"] . ";dbname=" . $_ENV["db"]["database_name"];
 
         $user = $_ENV["db"]["user"];
 

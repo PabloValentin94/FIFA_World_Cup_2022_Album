@@ -17,7 +17,9 @@ class AlbumDAO extends DAO
     public function SelectByID(int $id)
     {
 
-        $sql = "SELECT * FROM Figurinha WHERE id = ?";
+        // O comando abaixo retorna os registros de uma SQL View.
+
+        $sql = "SELECT * FROM Agrupar_Tabelas WHERE id_figurinha = ?";
 
         $stmt = $this->conexao->prepare($sql);
 

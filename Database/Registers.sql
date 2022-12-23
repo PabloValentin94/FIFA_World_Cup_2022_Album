@@ -18,7 +18,7 @@ VALUES("Kylian Mbappe", 1, "/View/Modules/Album/Images/Stickers/Franca/Kylian_Mb
 ("Son Heung-Min", 10, "/View/Modules/Album/Images/Stickers/Coreia_do_Sul/Son_Heung_Min.jpg"),
 ("Federico Valverde", 11, "/View/Modules/Album/Images/Stickers/Uruguai/Federico_Valverde.jpg"),
 ("Joshua Kimmich", 12, "/View/Modules/Album/Images/Stickers/Alemanha/Joshua_Kimmich.jpg"),
-("Bernardo Silva", 13, "/View/Modules/Album/Images/Stickers/Portugal/Bernando_Silva.jpg"),
+("Bernardo Silva", 13, "/View/Modules/Album/Images/Stickers/Portugal/Bernardo_Silva.jpg"),
 ("Joao Cancelo", 13, "/View/Modules/Album/Images/Stickers/Portugal/Joao_Cancelo.jpg"),
 ("Phil Foden", 8, "/View/Modules/Album/Images/Stickers/Inglaterra/Phil_Foden.jpg"),
 ("Pedri", 14, "/View/Modules/Album/Images/Stickers/Espanha/Pedri.jpg"),
