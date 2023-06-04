@@ -15,7 +15,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    background-image: url("/View/Modules/Album/Images/Wallpaper.jpg");
+    background-image: url("../Images/Wallpaper.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
 
@@ -66,7 +66,8 @@ body {
 
 }
 
-.espaco_figurinha {
+#espaco_figurinha_01, #espaco_figurinha_02,
+#espaco_figurinha_03, #espaco_figurinha_04 {
 
     height: 50%;
     width: 100%;
@@ -93,7 +94,8 @@ body {
 
 }
 
-.espaco_figurinha p {
+#espaco_figurinha_01 p, #espaco_figurinha_02 p,
+#espaco_figurinha_03 p, #espaco_figurinha_04 p {
 
     margin-top: 3%;
     font-size: 20px;
@@ -128,13 +130,17 @@ body {
 
     height: 95%;
     width: 95%;
-    background-image: url("/View/Modules/Album/Images/Trophy.png");
+    display: none;
+    /*display: flex;*/
+    align-items: center;
+    justify-content: center;
+    background-image: url("../Images/Trophy.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
 
 }
 
-#rows_null a {
+/*#rows_null a {
 
     color: #FFFF00;
 
@@ -150,4 +156,4 @@ body {
 
     color: #0000FF;
 
-}
+}*/
